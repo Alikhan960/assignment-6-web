@@ -2,7 +2,7 @@
 
 Responsive six-page fitness club website created by **Yelnur Akhmetzhan, Akejan Ahmetov and Alikhan Yertaiuly** (AITU, SE-2504).
 
-**Live site:** https://alikhan960.github.io/gym-project-midterm/
+**Live site:** (https://alikhan960.github.io/asignment-6-web/index.html)
 
 ## Team and pages
 
